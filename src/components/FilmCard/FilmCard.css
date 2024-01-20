@@ -1,0 +1,28 @@
+.film-card {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	width: 300px;
+	border: 1px solid #000;
+	border-radius: 10px;
+
+	color: #fff;
+}
+
+.film-card img {
+	width: 100%;
+	border-radius: 10px 10px 0 0;
+}
+
+.usa {
+	background: #23015a;
+}
+
+.france {
+	background: #3d001afb;
+}
+
+.also {
+	background: #031600fb;
+}
